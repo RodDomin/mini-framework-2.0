@@ -4,13 +4,21 @@
 O mini-framework foi atualizando, muitas mudanças foram feitas.
 
 Updates:
-- MVC real
-- Roteamento atualizado
+- [x] MVC real
+- [x] Roteamento atualizado
   - Com suporte a parametros de url
   - Suporte a parte de Api
-- Adicionado um mini ORM para facilitar no tratamento dos dados
-- Adicionado um PHPUnit para fazer testes
-- Adicionado uma classe para facilitar retorno das views
+- [x] Mini ORM para facilitar no tratamento dos dados
+- [x] PHPUnit para fazer testes
+- [x] Classe para facilitar retorno das views
+- [x] Funções globais para facilitar o uso de url no sistema
+  - Funciona com CSS caso queira
+- [x] Interface para padronizar criação de utils no sistema
+- [x] Util para carregamento dinâmico de css, imagens e js
+- [x] Util para o carregamento dinâmico de arquivos do sistema
+- [] Suporte a middlewares nas rotas
+- [] Classe para facilitar processamento/arquivamento de imagem
+
 
 ### Como configurar?
 Passos:
