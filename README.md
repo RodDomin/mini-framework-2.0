@@ -16,8 +16,8 @@ Updates:
 - [x] Interface para padronizar criação de utils no sistema
 - [x] Util para carregamento dinâmico de css, imagens e js
 - [x] Util para o carregamento dinâmico de arquivos do sistema
-- [] Suporte a middlewares nas rotas
-- [] Classe para facilitar processamento/arquivamento de imagem
+- [ ] Suporte a middlewares nas rotas
+- [ ] Classe para facilitar processamento/arquivamento de imagem
 
 
 ### Como configurar?
