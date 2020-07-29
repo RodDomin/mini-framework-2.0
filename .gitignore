@@ -2,3 +2,6 @@ vendor/
 
 .DS_Store
 *.ini
+
+tmp/*
+!tmp/.gitkeep
